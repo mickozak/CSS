@@ -1,1 +1,39 @@
+.tree{
+    position: relative;
+}
 
+.tree_one{
+    width: 13px;
+    height: 100px;
+    background: #3D2B1F;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 300px;
+    border-radius: 20%;
+    box-shadow: 
+        0 -150px 0 50px #008000
+}
+
+.tree_two{
+    width: 13px;
+    height: 100px;
+    background: #3D2B1F;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 580px;
+    border-radius: 20%;
+    box-shadow: 
+        0 -150px 0 50px #008000 
+}
+
+.tree_three{
+    width: 13px;
+    height: 100px;
+    background: #3D2B1F;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 450px;
+    border-radius: 20%;
+    box-shadow: 
+        0 -150px 0 50px #008000  
+}
