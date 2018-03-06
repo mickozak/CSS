@@ -90,3 +90,19 @@
         0px -180px 0 0px #E96B39,
         0px -190px 0 0px #E34234
 }
+
+.house::before{
+    content: '';
+    width: 40px;
+    height: 80px;
+    position: absolute;
+    background: #FFFFFF;
+    top: 80px;
+    left: 80px;
+    box-shadow: 
+        42px 0px 0 0px #FFFFFF,
+        200px 140px 0 15px #FFFFFF,
+        200px 100px 0 15px #FFFFFF
+}
+
+
