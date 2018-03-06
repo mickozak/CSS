@@ -37,3 +37,36 @@
     box-shadow: 
         0 -150px 0 50px #008000  
 }
+
+.house{
+    margin: 0 auto;
+    width: 370px;
+    height: 320px;
+    background: #C2B280;
+    position: relative;
+    margin-top: 400px;
+    box-shadow: 
+        -195px -495px 0 0px #FFFFFF,
+        195px -495px 0 0px #FFFFFF,
+        -210px -480px 0 0px #FFFFFF,
+        210px -480px 0 0px #FFFFFF,
+        -230px -460px 0 0px #FFFFFF,
+        230px -460px 0 0px #FFFFFF,
+        -250px -440px 0 0px #FFFFFF,
+        250px -440px 0 0px #FFFFFF,
+        -270px -420px 0 0px #FFFFFF,
+        270px -420px 0 0px #FFFFFF,
+        -290px -400px 0 0px #FFFFFF,
+        290px -400px 0 0px #FFFFFF,
+        -310px -380px 0 0px #FFFFFF,
+        310px -380px 0 0px #FFFFFF,
+        -330px -360px 0 0px #FFFFFF,
+        330px -360px 0 0px #FFFFFF,
+        -350px -340px 0 0px #FFFFFF,
+        350px -340px 0 0px #FFFFFF,
+        -370px -320px 0 0px #FFFFFF,
+        370px -320px 0 0px #FFFFFF,
+        -390px -300px 0 0px #FFFFFF,
+        390px -300px 0 0px #FFFFFF,
+        -410px -280px 0 0px #FFFFFF,
+        410px -280px 0 0px #FFFFFF,
