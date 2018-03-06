@@ -105,4 +105,22 @@
         200px 100px 0 15px #FFFFFF
 }
 
-
+.house::after{
+    content: '';
+    width: 5px;
+    height: 15px;
+    position: absolute;
+    background: #866423;
+    top: 230px;
+    left: 270px;
+    box-shadow: 
+        0px 0px 0 5px #3D2B1F,
+        0px -315px 0 10px #866423,
+        0px -330px 0 5px #866423,
+        0px -340px 0 0px #866423,
+        10px -360px 4px 0px #808080,
+        20px -370px 4px 0px #808080,
+        30px -380px 4px 0px #808080,
+        40px -390px 4px 0px #808080,
+        50px -400px 4px 0px #808080
+}
