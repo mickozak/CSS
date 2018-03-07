@@ -1,5 +1,6 @@
 .tree{
     position: relative;
+    z-index: 1;
 }
 
 .tree_one{
