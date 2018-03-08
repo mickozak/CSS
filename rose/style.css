@@ -39,3 +39,17 @@
         -2px -100px 0 51px #FC0300,
         0 -150px 0 70px white;
 }
+
+.rose::before{
+    content: '';
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    border-top-right-radius: 90%;
+    border-bottom-left-radius: 90%;
+    background: #198419;
+    top:80px;
+    right: 10px;
+    box-shadow: 
+        80px 60px 0 #198419        
+}
