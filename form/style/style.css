@@ -76,3 +76,59 @@ input:checked + label[for="front"],input:checked + label[for="back"], input:chec
     color: #ce1010;
     
 }
+
+fieldset{
+    padding: 20px;
+    margin: 20px 0;
+    border: 3px solid #222;
+}
+
+legend{
+    padding: 10px;
+    font-size: 18px;
+    letter-spacing: 0.1em;
+}
+
+input[type="email"], input[type="phone"]{
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    padding: 10px 10px 10px 10px;
+    border: 0;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #ffffff;
+    float: left;
+    clear: both;
+}
+
+select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    
+    display: block;
+    margin: 30px 0;
+    padding: 10px 50px 10px 10px;
+    background: url(img/select.png) no-repeat 95% center;
+    background-color: #222;
+    color: #fff;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    width: 250px;
+}
+
+input[type="submit"]{  
+    margin-bottom: 5px;
+    background: #b61111;
+    padding: 15px;
+    color: #fff;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+    border-radius: 4px;
+    border: 0;
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.5);
+    width: 300px;
+}
