@@ -9,17 +9,53 @@
 
 <body>
   
-    <form>
-        
-      <p>You are a...</p>
-      <input type="radio" id="male" name="gender" />
-      <label for="male">Male</label><br/>
-      <input type="radio" id="female" name="gender" />
-      <label for="female">Female</label>
-        
-    </form>
+     <div class="content">
+   
+        <header>
+            <img src="img/logo_new.png" />
+        </header>
     
+        <form>
     
+            <p>What is your name and surname?</p>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name"/>
+            <label for="surname">Surname:</label>
+            <input type="text" id="surname" name="surname"/>
+           
+           
+            <p>You are a...</p>
+            <input type="radio" id="male" name="gender" />
+            <label for="male">Male</label><br/>
+            <input type="radio" id="female" name="gender" />
+            <label for="female">Female</label>
+
+            <p>What are you interested in...</p>
+            <input type="checkbox" id="front" />
+            <label for="front">Front-end Developer</label><br/>
+            <input type="checkbox" id="back" />
+            <label for="back">Back-end Developer</label><br/>
+            <input type="checkbox" id="full" />
+            <label for="full">Full Stack Developer</label>
+
+            <fieldset>
+            <legend>Contact Information</legend>
+            <input type="email" placeholder="Email" required />
+            <input type="phone" placeholder="Phone number" required />
+            </fieldset>
+
+            <p>How would you like to be contacted?</p>
+            <select>
+                <option>By email</option>
+                <option>By telephone</option>
+            </select>
+      
+            <input type="submit" value="SUBMIT" />
+        
+        </form>
+    
+    </div>
+   
 </body>
   
 </html>
