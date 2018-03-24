@@ -6,4 +6,5 @@ Mini projects are independent.
 1. Home and trees (box shadow, pseudo elements),
 2. Rose (box shadow, pseudo elements),
 3. Circles (opacity),
-4. Form.
+4. Form,
+5. 12 Columns Grid (grid).
