@@ -46,3 +46,35 @@ footer{
     grid-column: 1/13;
     grid-row: 6;
 }
+
+@media screen and (max-width: 760px){
+    
+header{
+    grid-column: 1/13;
+}
+
+main{
+    grid-column: 1/13;
+    grid-row: 2
+}
+
+aside{
+    grid-column: 1/13;
+    grid-row: 3;
+}
+
+nav{
+    grid-column: 1/13;
+    grid-row: 4;
+}
+
+section{
+    grid-column: 1/13;
+    grid-row: 5/6;
+}
+
+footer{
+    grid-column: 1/13;
+    grid-row: 6;
+}
+}
