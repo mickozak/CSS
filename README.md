@@ -7,4 +7,5 @@ Mini projects are independent.
 2. Rose (box shadow, pseudo elements),
 3. Circles (opacity),
 4. Form,
-5. 12 Columns Grid (grid).
+5. 12 Columns Grid (grid),
+6. Mosaic Layout (grid).
