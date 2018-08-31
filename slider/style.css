@@ -57,4 +57,5 @@ body{
     background-color: #2b2a30;
     position: absolute;
     opacity: .2;
-    z-index: 99;
+    z-index: 9999;
+}
