@@ -8,5 +8,5 @@ Mini projects are independent.
 3. Circles (opacity),
 4. Form,
 5. 12 Columns Grid (grid),
-6. Mosaic Layout (grid).
-7. Slider CSS
+6. Mosaic Layout (grid),
+7. Slider CSS.
