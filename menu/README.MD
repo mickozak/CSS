@@ -1,1 +1,1 @@
-# Menu With Hover Effect
+# Menu with hover effect
