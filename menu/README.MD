@@ -1,6 +1,6 @@
 # Menu with hover effect
 
 Used:
--HTML,
--CSS,
--jQuery.
+- HTML,
+- CSS,
+- jQuery.
