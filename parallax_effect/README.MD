@@ -1,6 +1,6 @@
-#Parallax Effect
+# Parallax Effect
 
 Used:
 
-    HTML,
-    CSS (animation & keyframes)
+- HTML,
+- CSS.
