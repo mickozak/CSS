@@ -1,1 +1,42 @@
-...
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-family: Arial;
+    font-size: 60px;
+    color: white;
+    margin: 0px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    opacity: 0.8;
+}
+
+#boxOne{
+    height: 100vh;
+    width: 100%;
+    background-image: url("1.jpg");
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+#boxTwo{
+    height: 100vh;
+    width: 100%;
+    background-image: url("2.jpeg");
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+#boxThree{
+    height: 100vh;
+    width: 100%;
+    background-image: url("3.jpeg");
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
