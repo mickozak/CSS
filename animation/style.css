@@ -19,3 +19,18 @@ body{
     -webkit-filter: blur(4px);
     transform: rotate(20deg);
 }
+
+#objectTwo{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+
+#objectThree{
+    position: absolute;
+    left: 950px;
+    top: 200px;
+    opacity: 0.3;
+    -webkit-filter: blur(3px);
+    transform: rotate(-20deg);
+}
