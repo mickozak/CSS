@@ -21,3 +21,12 @@ layer.mousemove(function(e){
         'transform':'translate3d('+valueX+'px,'+valueY+'px,0)'
     });
 });
+
+layer.mousemove(function(e){
+    var valueX=(e.pageX * -1 / 15);
+    var valueY=(e.pageY * -1 / 15);
+
+    objectThree.css({
+        'transform':'translate3d('+valueX+'px,'+valueY+'px,0) rotate(-20deg)'
+    });
+});
