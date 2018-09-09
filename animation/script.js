@@ -12,3 +12,12 @@ layer.mousemove(function(e){
         'transform':'translate3d('+valueX+'px,'+valueY+'px,0) rotate(20deg)'
     });
 });
+
+layer.mousemove(function(e){
+    var valueX=(e.pageX * -1 / 15);
+    var valueY=(e.pageY * -1 / 20);
+
+    objectTwo.css({
+        'transform':'translate3d('+valueX+'px,'+valueY+'px,0)'
+    });
+});
