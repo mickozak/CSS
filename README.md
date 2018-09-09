@@ -11,4 +11,5 @@ Mini projects are independent.
 6. Mosaic Layout (grid),
 7. Slider CSS (animation & keyframes),
 8. Menu (hover effect, jquery),
-9. Parallax Effect.
+9. Parallax Effect,
+10. Animation (move object).
