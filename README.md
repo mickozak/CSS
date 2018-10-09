@@ -16,4 +16,4 @@ Mini projects are independent.
 
 Preparation page based on Materialize-CSS.
 
-Link.:
+Link.: https://mickozak.github.io/CSS/
