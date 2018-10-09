@@ -13,3 +13,7 @@ Mini projects are independent.
 8. Menu (hover effect, jquery),
 9. Parallax Effect,
 10. Animation (move object).
+
+Preparation page based on Materialize-CSS.
+
+Link.:
